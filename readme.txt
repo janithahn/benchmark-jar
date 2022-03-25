@@ -1,5 +1,5 @@
-runtime: java -jar benchmark.jar -r 1500000 10 100000 50000 20 filename
-memory: java -jar benchmark.jar -m 1500000 10 100000 50000 20 filename
+runtime: java -jar benchmark.jar -r 10 100000 50000 20 filename
+memory: java -jar benchmark.jar -m 10 100000 50000 20 filename
 
 ******** parameters ********
 -r = measure runtime
